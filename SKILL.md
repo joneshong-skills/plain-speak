@@ -1,11 +1,6 @@
 ---
 name: plain-speak
-description: >-
-  This skill should be used when the user asks to "explain this term",
-  "what is X", "what does Y mean", "explain like I'm 5", "這是什麼意思",
-  "幫我解釋", "白話解釋", "用簡單的話說", "名詞解釋", "ELI5",
-  encounters complex jargon, domain-specific terminology, acronyms,
-  or technical concepts that need clear, verified explanation.
+description: "plain, speak, explain, term, mean, eli5, 這是什麼意思, 幫我解釋, 白話解釋, 用簡單的話說"
 version: 0.1.0
 tools:
   - WebSearch
